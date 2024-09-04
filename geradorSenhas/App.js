@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { StyleSheet, Text, View, Image, TouchableOpacity, Modal } from 'react-native';
 
 let charset = "abcdefghijklmnopqrstuvwxyz!@#$%¨*&(0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-
+//aaa
 export default function App() {
   const [senhaGerada, setSenhaGerada] = useState("")
 
